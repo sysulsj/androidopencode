@@ -20,6 +20,18 @@
             android:name=".PullToReflshActivity"
             android:label="@string/title_activity_pull_to_reflsh" >
         </activity>
+        <activity
+            android:name="com.ericssonlabs.ScanBarCodeActivity"
+            android:label="@string/title_activity_barcode" >
+        </activity>
+        <activity
+            android:name="com.zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_barcode"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
     </application>
 
 </manifest>

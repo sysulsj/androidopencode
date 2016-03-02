@@ -4,6 +4,6 @@
     <string name="app_name">安卓开源实例集合</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_pull_to_reflsh">下拉刷新效果</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_barcode">二维码的识别与生成</string>
 
 </resources>

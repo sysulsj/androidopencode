@@ -11,7 +11,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
+import com.ericssonlabs.ScanBarCodeActivity;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
+import com.zxing.activity.CaptureActivity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -32,6 +34,7 @@ public class MainActivity extends ListActivity {
     protected List<Map<String, Object>> getData() {
         List<Map<String, Object>> intentList=new ArrayList<>();
         addItem(intentList,"下拉刷新效果",new Intent(this,PullToReflshActivity.class));
+        addItem(intentList,"二维码的识别与生成",new Intent(this,ScanBarCodeActivity.class));
         return intentList;
     }
     protected void addItem(List<Map<String, Object>> list,String title,Intent intent)

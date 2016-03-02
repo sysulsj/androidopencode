@@ -41,7 +41,7 @@ public final class R {
     }
     public static final class drawable {
         public static int ic_launcher=0x7f020000;
-        public static int mynavbar =0x7f020001;
+        public static int navbar=0x7f020001;
     }
     public static final class id {
         public static int auto_focus=0x7f060000;
@@ -66,7 +66,7 @@ public final class R {
         public static int viewfinder_view=0x7f06000d;
     }
     public static final class layout {
-        public static int camera=0x7f030000;
+        public static int activity_camera =0x7f030000;
         public static int main=0x7f030001;
     }
     public static final class raw {

@@ -6,27 +6,33 @@
     android:orientation="vertical" >
 
     <Button
-        android:id="@+id/btn_scan_barcode"
+        android:id="@+id/btn_scan_picture"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:text="Open camera" />
-    
+        android:layout_marginTop="5dp"
+        android:text="识别二维码(识别图片)" />
+    <Button
+        android:id="@+id/btn_scan_camera"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="识别二维码(使用摄像头)" />
     <LinearLayout 
         android:orientation="horizontal"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content">
-        
+        android:layout_height="wrap_content"
+        android:gravity="center">
         <TextView 
        	android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@android:color/black"
         android:textSize="18sp"
-        android:text="Scan result：" />
+        android:text="识别结果：" />
         
         <TextView 
-        android:id="@+id/tv_scan_result"
+        android:id="@+id/txt_scan_result"
        	android:layout_width="fill_parent"
        	android:textSize="18sp"
        	android:textColor="@android:color/black"
@@ -34,23 +40,23 @@
     </LinearLayout>
     
     <EditText 
-        android:id="@+id/et_qr_string"
+        android:id="@+id/txt_barcode"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:hint="Input the text"/>
+        android:layout_marginTop="5dp"
+        android:hint="请输入生成要二维码的文本信息"/>
     
     <Button
-        android:id="@+id/btn_add_qrcode"
+        android:id="@+id/btn_create_code"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Generate QRcode" />
+        android:text="生成二维码" />
     
     <ImageView 
-        android:id="@+id/iv_qr_image"
+        android:id="@+id/img_barcode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="5dp"
         android:layout_gravity="center"/>
 
-</LinearLayout>
+</LinearLayout><!-- From: file:/E:/lsj/GitHub/androidopencode/AndroidCode/BarCode/src/main/res/layout/activity_barcode.xml -->

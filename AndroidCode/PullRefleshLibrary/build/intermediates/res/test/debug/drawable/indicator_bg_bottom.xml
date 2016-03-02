@@ -15,4 +15,4 @@
         android:topLeftRadius="@dimen/indicator_corner_radius"
         android:topRightRadius="@dimen/indicator_corner_radius" />
 
-</shape><!-- From: file:/E:/AndroidStudio/AndroidStudioProjects/AndroidCode/PullRefleshLibrary/src/main/res/drawable/indicator_bg_bottom.xml --><!-- From: file:/E:/AndroidStudio/AndroidStudioProjects/AndroidCode/PullRefleshLibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml -->
+</shape><!-- From: file:/E:/lsj/GitHub/androidopencode/AndroidCode/PullRefleshLibrary/src/main/res/drawable/indicator_bg_bottom.xml --><!-- From: file:/E:/lsj/GitHub/androidopencode/AndroidCode/PullRefleshLibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml -->
