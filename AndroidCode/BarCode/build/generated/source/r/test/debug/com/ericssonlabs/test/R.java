@@ -39,42 +39,46 @@ public final class R {
         public static final int viewfinder_laser=0x7f050019;
         public static final int viewfinder_mask=0x7f05001a;
     }
+    public static final class dimen {
+        public static final int activity_horizontal_margin=0x7f060000;
+        public static final int activity_vertical_margin=0x7f060001;
+    }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
         public static final int navbar=0x7f020001;
     }
     public static final class id {
-        public static final int auto_focus=0x7f060000;
-        public static final int btn_add_qrcode=0x7f060012;
-        public static final int btn_cancel_scan=0x7f06000e;
-        public static final int btn_scan_barcode=0x7f06000f;
-        public static final int decode=0x7f060001;
-        public static final int decode_failed=0x7f060002;
-        public static final int decode_succeeded=0x7f060003;
-        public static final int encode_failed=0x7f060004;
-        public static final int encode_succeeded=0x7f060005;
-        public static final int et_qr_string=0x7f060011;
-        public static final int iv_qr_image=0x7f060013;
-        public static final int launch_product_query=0x7f060006;
-        public static final int preview_view=0x7f06000c;
-        public static final int quit=0x7f060007;
-        public static final int restart_preview=0x7f060008;
-        public static final int return_scan_result=0x7f060009;
-        public static final int search_book_contents_failed=0x7f06000a;
-        public static final int search_book_contents_succeeded=0x7f06000b;
-        public static final int tv_scan_result=0x7f060010;
-        public static final int viewfinder_view=0x7f06000d;
+        public static final int auto_focus=0x7f070000;
+        public static final int btn_cancel_scan=0x7f070014;
+        public static final int btn_create_code=0x7f070010;
+        public static final int btn_scan_camera=0x7f07000d;
+        public static final int btn_scan_picture=0x7f07000c;
+        public static final int decode=0x7f070001;
+        public static final int decode_failed=0x7f070002;
+        public static final int decode_succeeded=0x7f070003;
+        public static final int encode_failed=0x7f070004;
+        public static final int encode_succeeded=0x7f070005;
+        public static final int img_barcode=0x7f070011;
+        public static final int launch_product_query=0x7f070006;
+        public static final int preview_view=0x7f070012;
+        public static final int quit=0x7f070007;
+        public static final int restart_preview=0x7f070008;
+        public static final int return_scan_result=0x7f070009;
+        public static final int search_book_contents_failed=0x7f07000a;
+        public static final int search_book_contents_succeeded=0x7f07000b;
+        public static final int txt_barcode=0x7f07000f;
+        public static final int txt_scan_result=0x7f07000e;
+        public static final int viewfinder_view=0x7f070013;
     }
     public static final class layout {
-        public static final int camera=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int activity_barcode=0x7f030000;
+        public static final int activity_camera=0x7f030001;
     }
     public static final class raw {
         public static final int beep=0x7f040000;
         public static final int realm_properties=0x7f040001;
     }
     public static final class string {
-        public static final int app_name=0x7f070000;
-        public static final int hello=0x7f070001;
+        public static final int app_name=0x7f080000;
     }
 }

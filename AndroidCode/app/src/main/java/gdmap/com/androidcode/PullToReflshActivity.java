@@ -45,7 +45,6 @@ public class PullToReflshActivity extends Activity {
     //创建一个异步任务来模拟数据刷新过程
     private class GetDataTask extends AsyncTask<Void,Void,String>
     {
-
         @Override
         protected String doInBackground(Void... params) {
             //执行获取数据等耗时操作

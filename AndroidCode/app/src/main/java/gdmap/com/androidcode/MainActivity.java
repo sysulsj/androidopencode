@@ -35,6 +35,7 @@ public class MainActivity extends ListActivity {
         List<Map<String, Object>> intentList=new ArrayList<>();
         addItem(intentList,"下拉刷新效果",new Intent(this,PullToReflshActivity.class));
         addItem(intentList,"二维码的识别与生成",new Intent(this,ScanBarCodeActivity.class));
+        addItem(intentList,"监听短信内容或者验证码",new Intent(this,SmsObserverActivity.class));
         return intentList;
     }
     protected void addItem(List<Map<String, Object>> list,String title,Intent intent)

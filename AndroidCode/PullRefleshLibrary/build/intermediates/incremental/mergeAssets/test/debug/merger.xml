@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="E:\lsj\GitHub\androidopencode\AndroidCode\PullRefleshLibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\lsj\GitHub\androidopencode\AndroidCode\PullRefleshLibrary\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="E:\AndroidStudio\AndroidStudioProjects\androidopencode\AndroidCode\PullRefleshLibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\AndroidStudio\AndroidStudioProjects\androidopencode\AndroidCode\PullRefleshLibrary\src\androidTest\assets"/></dataSet></merger>

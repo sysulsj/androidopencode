@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="gdmap.com.androidcode.SmsObserverActivity">
+
+    <EditText
+        android:id="@+id/txt_code"
+        android:layout_margin="10dp"
+        android:hint="正在监测短信内容或者验证码"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
