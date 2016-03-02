@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCode.iml" filepath="$PROJECT_DIR$/AndroidCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarCode/BarCode.iml" filepath="$PROJECT_DIR$/BarCode/BarCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullRefleshLibrary/PullRefleshLibrary.iml" filepath="$PROJECT_DIR$/PullRefleshLibrary/PullRefleshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SliderMenuLibrary/SliderMenuLibrary.iml" filepath="$PROJECT_DIR$/SliderMenuLibrary/SliderMenuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
