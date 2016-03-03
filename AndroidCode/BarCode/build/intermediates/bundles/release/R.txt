@@ -27,8 +27,14 @@ int color viewfinder_laser 0x7f050019
 int color viewfinder_mask 0x7f05001a
 int dimen activity_horizontal_margin 0x7f060000
 int dimen activity_vertical_margin 0x7f060001
-int drawable ic_launcher 0x7f020000
-int drawable navbar 0x7f020001
+int drawable button_bg_focused 0x7f020000
+int drawable button_bg_normal 0x7f020001
+int drawable button_bg_selector 0x7f020002
+int drawable edittext_bg_focused 0x7f020003
+int drawable edittext_bg_normal 0x7f020004
+int drawable edittext_bg_selector 0x7f020005
+int drawable ic_launcher 0x7f020006
+int drawable navbar 0x7f020007
 int id auto_focus 0x7f070000
 int id btn_cancel_scan 0x7f070014
 int id btn_create_code 0x7f070010

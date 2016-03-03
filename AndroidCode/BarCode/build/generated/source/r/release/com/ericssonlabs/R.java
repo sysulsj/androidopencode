@@ -44,8 +44,14 @@ public final class R {
         public static int activity_vertical_margin=0x7f060001;
     }
     public static final class drawable {
-        public static int ic_launcher=0x7f020000;
-        public static int navbar=0x7f020001;
+        public static int button_bg_focused=0x7f020000;
+        public static int button_bg_normal=0x7f020001;
+        public static int button_bg_selector=0x7f020002;
+        public static int edittext_bg_focused=0x7f020003;
+        public static int edittext_bg_normal=0x7f020004;
+        public static int edittext_bg_selector=0x7f020005;
+        public static int ic_launcher=0x7f020006;
+        public static int navbar=0x7f020007;
     }
     public static final class id {
         public static int auto_focus=0x7f070000;

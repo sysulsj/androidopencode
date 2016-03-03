@@ -4,5 +4,9 @@
     <style name="AppTheme" parent="android:Theme.Holo.Light">
         <!-- Customize your theme here. -->
     </style>
-
+    <!--设置文本样式-->
+    <style name="Style_Text">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">18sp</item>
+    </style>
 </resources>
