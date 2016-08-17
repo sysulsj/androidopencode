@@ -5,3 +5,4 @@ VERSION=1.3$
 UPDATE=新增种子视频解析功能，支持种子在线观看，同时增加了电视在线直播和搞笑视频，进一步完善软件功能$
 DOWNURL=http://tiaozhuan.coolchuan.com/uploads/downloads?aid=293917&apk1=com.gdmap.webvideo_4_21c5cb7cc5004a1d92bd4b30046d95ec.apk$
 DETAILURL=http://anzhuoyuan.com/app/info/appid/293917.html$
+
