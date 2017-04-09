@@ -3,8 +3,8 @@ COOKIE=PANWEB=1; bdshare_firstime=1458531830716; a7122_times=1; secu=1; __cfduid
 LOGINID=MTQ3ODg0ODU0MDA2MTAuNDQwMTAzMDkzNzEwMDQ4MQ==$
 VERSION=2.0$
 UPDATE=年底福利来啦，去除了广告，看电影也完全免费了，赶紧升级到最新版使用吧！$
-DOWNURL=http://tiaozhuan.coolchuan.com/uploads/downloads?aid=328896&apk1=com.gdmap.webvideo_9_11d3052700c042dd96554fbaecba27cb.apk$
-DETAILURL=http://anzhuoyuan.com/app/info/appid/328896.html$
+DOWNURL=http://tiaozhuan.coolchuan.com/uploads/downloads?aid=339668&apk1=com.gdmap.webvideo_12_af20b638a4de4dd7844d73fb2add06c4.apk$
+DETAILURL=http://anzhuoyuan.com/app/info/appid/339668.html$
 OPENSE=1$
 
 
