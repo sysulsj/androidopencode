@@ -5,6 +5,6 @@ VERSION=2.0$
 UPDATE=年底福利来啦，去除了广告，看电影也完全免费了，赶紧升级到最新版使用吧！$
 DOWNURL=http://tiaozhuan.coolchuan.com/uploads/downloads?aid=328896&apk1=com.gdmap.webvideo_9_11d3052700c042dd96554fbaecba27cb.apk$
 DETAILURL=http://anzhuoyuan.com/app/info/appid/328896.html$
-OPENSE=0$
+OPENSE=1$
 
 
