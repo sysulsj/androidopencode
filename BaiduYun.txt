@@ -4,7 +4,7 @@ LOGINID=MTQ3ODg0ODU0MDA2MTAuNDQwMTAzMDkzNzEwMDQ4MQ==$
 VERSION=2.0$
 UPDATE=年底福利来啦，去除了广告，看电影也完全免费了，赶紧升级到最新版使用吧！$
 DOWNURL=http://tiaozhuan.coolchuan.com/uploads/downloads?aid=339668&apk1=com.gdmap.webvideo_12_af20b638a4de4dd7844d73fb2add06c4.apk$
-DETAILURL=http://anzhuoyuan.com/app/info/appid/339668.html$
+DETAILURL=http://pan.baidu.com/s/1c2MQ0Mk$
 OPENSE=1$
 
 
