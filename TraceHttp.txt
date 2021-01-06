@@ -1,2 +1,2 @@
-TraceHttp=http://47.107.82.7:8080/Trace$
+TraceHttp=http://120.24.44.159:8099/upload.dll/Trace$
 Email=1762328965@qq.com$
